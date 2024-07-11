@@ -7,11 +7,12 @@ If you are seeing this, then I want to thank you for taking the time to check ou
 Hello! I'm Cade Wrinkle, a passionate and dedicated student with a strong background in IT and Cybersecurity. (INSERT MORE HERE BEFORE PUBLISHING)
 
 ## Skills
-
-- **Programming Languages:** Python, JavaScript, HTML/CSS, etc.
-- **Frameworks and Libraries:** React, Node.js, Django, etc.
-- **Tools and Technologies:** Git, Docker, AWS, etc.
-- **Soft Skills:** Problem-solving, teamwork, communication, etc.
+- **Network Security**: Managing firewalls, configuring VPNs, and deploying IDS/IPS.
+- **Threat Analysis and Response**: Experience in basic incident response and malware analysis through academic projects.
+- **Vulnerability Management**: Conducted assessments and basic penetration testing, identified critical vulnerabilities.
+- **Programming and Scripting**: Proficient in Python, Bash, PowerShell, and SQL. Created Python scripts for network traffic scanning. Limited experience in C++, Java, JavaScript, HTML, and CSS.
+- **Security Tools**: Skilled in Wireshark, Metasploit, and Nmap for network analysis and penetration testing.
+- **Operating Systems**: Familiarity with Linux, Windows, and MacOS.
 
 ## Projects
 One of my more notable projects I collaborated on is https://github.com/CadeWrinkle/hackathon-2023
@@ -30,7 +31,7 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 
 ## Experience
 
-### Job Title 1: [Job Title]
+### CaTS IT Help Desk
 - **Company:** [Company Name]
 - **Duration:** [Start Date] - [End Date]
 - **Description:** Brief description of your responsibilities, achievements, and projects.
@@ -48,8 +49,8 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 ## Certifications / Certificates
 
 - **Linux Security and Networking:** Sinclair Community College, 2024
-- **Security +:** ComptTIA (IN PROGRESS)
-
+- **Security +:** CompTIA (IN PROGRESS)
+- **Ethical Hacker Pro:** Testout (IN PROGRESS)
 
 ## Contact
 
