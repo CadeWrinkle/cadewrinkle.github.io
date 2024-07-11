@@ -22,12 +22,10 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 ### B.S. Information Technology and Cybersecurity
 - **Institution:** Wright State University
 - **Years Attended:** 2022 - Present
-- **Description:** Brief description of your studies, relevant coursework, and achievements.
 
 ### (No Degree)
 - **Institution:** Sinclair Community College
 - **Years Attended:** 2020 - 2022, 2024
-- **Description:** Brief description of your studies, relevant coursework, and achievements.
 
 ## Experience
 
@@ -41,6 +39,8 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 - **Duration:** 09/2020 - 08/2021
 - **Description:** Showed strong customer service skills by quickly gathering online orders for delivery and helping in-store customers with questions and purchases. Kept merchandise displays stocked and tidy, which helped improve customer experiences and boost sales.
 
+### Awards / Achievements
+- Treasuerer of the Associan for Computing Machinery organization at Wright State University
 
 ## Certifications / Certificates
 
