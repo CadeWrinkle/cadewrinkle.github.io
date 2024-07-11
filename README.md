@@ -21,7 +21,7 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 
 ### B.S. Information Technology and Cybersecurity
 - **Institution:** Wright State University
-- **Years Attended:** 2022 - Current
+- **Years Attended:** 2022 - Present
 - **Description:** Brief description of your studies, relevant coursework, and achievements.
 
 ### (No Degree)
@@ -34,7 +34,14 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 ### CaTS IT Help Desk
 - **Company:** [Company Name]
 - **Duration:** [Start Date] - [End Date]
-- **Description:** Brief description of your responsibilities, achievements, and projects.
+- **Description:** Provided comprehensive technical support to (college name) students, faculty, and
+affiliates via multiple communication channels including email, phone, remote
+connection, and in-person interactions.
+Managed and resolved IT help desk tickets efficiently using the ServiceNow ticketing
+system, ensuring timely resolution of technical issues.
+Assisted with incidents related to Windows and iOS issues, printing, software
+installations, network drives, and classroom technology equipment, demonstrating
+proficiency in troubleshooting diverse technical problems.
 
 ### Job Title 2: [Job Title]
 - **Company:** [Company Name]
