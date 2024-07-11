@@ -1,24 +1,63 @@
-# Welcome to My Website!
+# Welcome to My Website
 
-This is a simple GitHub Pages website using Markdown.
+If you are seeing this, then I want to thank you for taking the time to check out my resume.
 
-## Heading 2
+## About Me
 
-Some content here.
+Hello! I'm Cade Wrinkle, a passionate and dedicated student with a strong background in IT and Cybersecurity. (INSERT MORE HERE BEFORE PUBLISHING)
 
-### Heading 3
+## Skills
 
-- Bullet point 1
-- Bullet point 2
-- Bullet point 3
+- **Programming Languages:** Python, JavaScript, HTML/CSS, etc.
+- **Frameworks and Libraries:** React, Node.js, Django, etc.
+- **Tools and Technologies:** Git, Docker, AWS, etc.
+- **Soft Skills:** Problem-solving, teamwork, communication, etc.
 
-#### Heading 4
+## Projects
+One of my more notable projects I collaborated on is https://github.com/CadeWrinkle/hackathon-2023
 
-You can also include links, images, and more.
+## Education
+
+### Degree 1: [Degree Name]
+- **Institution:** [University Name]
+- **Year of Graduation:** [Year]
+- **Description:** Brief description of your studies, relevant coursework, and achievements.
+
+### (]
+- **Institution:** [University Name]
+- **Year of Graduation:** [Year]
+- **Description:** Brief description of your studies, relevant coursework, and achievements.
+
+## Experience
+
+### Job Title 1: [Job Title]
+- **Company:** [Company Name]
+- **Duration:** [Start Date] - [End Date]
+- **Description:** Brief description of your responsibilities, achievements, and projects.
+
+### Job Title 2: [Job Title]
+- **Company:** [Company Name]
+- **Duration:** [Start Date] - [End Date]
+- **Description:** Brief description of your responsibilities, achievements, and projects.
+
+### Job Title 3: [Job Title]
+- **Company:** [Company Name]
+- **Duration:** [Start Date] - [End Date]
+- **Description:** Brief description of your responsibilities, achievements, and projects.
+
+## Certifications / Certificates
+
+- **Linux Security and Networking:** Sinclair Community College, 2024
 
 
-##### Heading 5
+## Contact
 
-Some **bold** text and some *italic* text.
+Feel free to reach out to me through the following channels:
 
-###### Heading 6
+- **Email:** wrinklecj@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/cade-wrinkle
+- **Phone / Text:** 937-266-7148
+
+---
+
+Thank you for visiting my GitHub Pages site. I look forward to connecting with you!
