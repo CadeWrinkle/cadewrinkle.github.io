@@ -15,8 +15,7 @@ Hello! I'm Cade Wrinkle, a passionate and dedicated student with a strong backgr
 - **Operating Systems**: Familiarity with Linux, Windows, and MacOS.
 
 ## Projects
-One of my more notable projects I collaborated on is https://github.com/CadeWrinkle/hackathon-2023
-
+This is my most notable project I worked on: https://github.com/CadeWrinkle/hackathon-2023 It is a project I collaborated on with 3 others. 
 ## Education
 
 ### B.S. Information Technology and Cybersecurity
