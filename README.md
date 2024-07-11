@@ -1,6 +1,6 @@
 # Welcome to My Website
 
-If you are seeing this, then I want to thank you for taking the time to check out my resume.
+If you are seeing this, then I want to thank you for taking the time to check out my resume and consider me for a position. Just the idea of potentially giving me a chance to prove myself means a lot to me.
 
 ## About Me
 
@@ -31,27 +31,16 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 
 ## Experience
 
-### CaTS IT Help Desk
-- **Company:** [Company Name]
-- **Duration:** [Start Date] - [End Date]
-- **Description:** Provided comprehensive technical support to (college name) students, faculty, and
-affiliates via multiple communication channels including email, phone, remote
-connection, and in-person interactions.
-Managed and resolved IT help desk tickets efficiently using the ServiceNow ticketing
-system, ensuring timely resolution of technical issues.
-Assisted with incidents related to Windows and iOS issues, printing, software
-installations, network drives, and classroom technology equipment, demonstrating
-proficiency in troubleshooting diverse technical problems.
+### Computer Support Assistant
+- **Company:** Wright State University
+- **Duration:** 05/2023 - Present
+- **Description:** Provided technical support to Wright State students, faculty, and affiliates through email, phone, remote connection, and in-person. Managed IT help desk tickets using the ServiceNow system to quickly solve issues. Handled problems with Windows and iOS, printing, software installations, network drives, and classroom technology. Also helped test experimental software.
 
-### Job Title 2: [Job Title]
-- **Company:** [Company Name]
-- **Duration:** [Start Date] - [End Date]
-- **Description:** Brief description of your responsibilities, achievements, and projects.
+### Retail Clerk
+- **Company:** Kroger
+- **Duration:** 09/2020 - 08/2021
+- **Description:** Showed strong customer service skills by quickly gathering online orders for delivery and helping in-store customers with questions and purchases. Kept merchandise displays stocked and tidy, which helped improve customer experiences and boost sales.
 
-### Job Title 3: [Job Title]
-- **Company:** [Company Name]
-- **Duration:** [Start Date] - [End Date]
-- **Description:** Brief description of your responsibilities, achievements, and projects.
 
 ## Certifications / Certificates
 
