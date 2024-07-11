@@ -21,12 +21,12 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 
 ### B.S. Information Technology and Cybersecurity
 - **Institution:** Wright State University
-- **Year of Graduation:** 2022 - 2025 (IN PROGRESS)
+- **Years Attended:** 2022 - Current
 - **Description:** Brief description of your studies, relevant coursework, and achievements.
 
 ### (No Degree)
 - **Institution:** Sinclair Community College
-- **Year of Graduation:** 2020 - 2022, 2024
+- **Years Attended:** 2020 - 2022, 2024
 - **Description:** Brief description of your studies, relevant coursework, and achievements.
 
 ## Experience
