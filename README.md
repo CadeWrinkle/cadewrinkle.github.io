@@ -18,14 +18,14 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 
 ## Education
 
-### Degree 1: [Degree Name]
-- **Institution:** [University Name]
-- **Year of Graduation:** [Year]
+### B.S. Information Technology and Cybersecurity
+- **Institution:** Wright State University
+- **Year of Graduation:** 2022 - 2025 (IN PROGRESS)
 - **Description:** Brief description of your studies, relevant coursework, and achievements.
 
-### (]
-- **Institution:** [University Name]
-- **Year of Graduation:** [Year]
+### (No Degree)
+- **Institution:** Sinclair Community College
+- **Year of Graduation:** 2020 - 2022, 2024
 - **Description:** Brief description of your studies, relevant coursework, and achievements.
 
 ## Experience
@@ -48,6 +48,7 @@ One of my more notable projects I collaborated on is https://github.com/CadeWrin
 ## Certifications / Certificates
 
 - **Linux Security and Networking:** Sinclair Community College, 2024
+- **Security +:** ComptTIA (IN PROGRESS)
 
 
 ## Contact
