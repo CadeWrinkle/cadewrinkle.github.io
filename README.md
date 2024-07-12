@@ -4,7 +4,7 @@ If you are seeing this, then I want to thank you for taking the time to check ou
 
 ## About Me
 
-Hello! I'm Cade Wrinkle, a passionate and dedicated student with a strong background in IT and Cybersecurity. (INSERT MORE HERE BEFORE PUBLISHING)
+Hello! I'm Cade Wrinkle, a passionate and dedicated student with a strong background in IT and Cybersecurity. I am currently looking for an opportunity to prove what I'm capible of in the form of an internship, co-op, part-time or full-time employment. I have several years of higher education, and over a year of relevant work experience. I am dedicated, willing to show up and learn whatever is needed. I am a team player, and will make a difference wherever I'm needed. I hope after reading this you will consider giving me a chance. Thank you!
 
 ## Skills
 - **Network Security**: Managing firewalls, configuring VPNs, and deploying IDS/IPS.
@@ -57,4 +57,4 @@ Feel free to reach out to me through the following channels:
 
 ---
 
-Thank you for visiting my GitHub Pages site. I look forward to connecting with you!
+Thank you for visiting my website. I look forward to connecting with you!
