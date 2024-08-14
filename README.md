@@ -44,8 +44,10 @@ This is my most notable project I worked on: https://github.com/CadeWrinkle/hack
 ## Certifications / Certificates
 
 - **Linux Security and Networking:** Sinclair Community College, 2024
+- **Ethical Hacker Pro:** Testout, 2024
+- **PC Pro (A+):** Testout 2024
 - **Security +:** CompTIA (IN PROGRESS)
-- **Ethical Hacker Pro:** Testout (IN PROGRESS)
+  
 
 ## Contact
 
