@@ -33,10 +33,13 @@ This is my most notable project I worked on: https://github.com/CadeWrinkle/hack
 - **Duration:** 05/2023 - Present
 - **Description:** Provided technical support to Wright State students, faculty, and affiliates through email, phone, remote connection, and in-person. Managed IT help desk tickets using the ServiceNow system to quickly solve issues. Handled problems with Windows and iOS, printing, software installations, network drives, and classroom technology. Also helped test experimental software.
 
-### Retail Clerk
-- **Company:** Kroger
-- **Duration:** 09/2020 - 08/2021
-- **Description:** Showed strong customer service skills by quickly gathering online orders for delivery and helping in-store customers with questions and purchases. Kept merchandise displays stocked and tidy, which helped improve customer experiences and boost sales.
+### Teaching Assistant
+- **Company:** Wright State University
+- **Duration:** 08/2024 - Present
+- **Description:** Support classroom management and lesson preparation; provide individualized instruction and assist
+with grading.
+Facilitate student engagement and ensure a safe, productive learning environment.
+Communicate effectively with students, parents, and staff to address academic needs and progress.
 
 ### Awards / Achievements
 - Treasuerer of the Associan for Computing Machinery organization at Wright State University
