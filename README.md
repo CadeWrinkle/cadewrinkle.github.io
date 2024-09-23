@@ -47,6 +47,7 @@ Communicate effectively with students, parents, and staff to address academic ne
 ## Certifications / Certificates
 
 - **Linux Security and Networking:** Sinclair Community College, 2024
+- **Information Systems Security** Sinclair Community College, 2024
 - **Ethical Hacker Pro:** Testout, 2024
 - **PC Pro (A+):** Testout 2024
 - **Security +:** CompTIA (IN PROGRESS)
