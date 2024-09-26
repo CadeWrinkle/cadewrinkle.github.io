@@ -1,6 +1,6 @@
 # Welcome to My Website
 
-If you are seeing this, then I want to thank you for taking the time to check out my resume and consider me for a position. Just the idea of potentially giving me a chance to prove myself means a lot to me.
+If you are seeing this, then I want to thank you for taking the time to check out my resume and consider me for a position. As a hard working and dedicated individual, I promise I won't dissapoint if you are willing to potentially give me a chance!
 
 ## About Me
 
@@ -42,7 +42,7 @@ Facilitate student engagement and ensure a safe, productive learning environment
 Communicate effectively with students, parents, and staff to address academic needs and progress.
 
 ### Awards / Achievements
-- Treasuerer of the Associan for Computing Machinery organization at Wright State University
+- Treasuerer of the Assocation for Computing Machinery organization at Wright State University
 
 ## Certifications / Certificates
 
