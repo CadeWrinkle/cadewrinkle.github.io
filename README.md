@@ -48,9 +48,9 @@ Communicate effectively with students, parents, and staff to address academic ne
 - **Linux Security and Networking:** Sinclair Community College, 2024
 - **Information Systems Security:** Sinclair Community College, 2024
 - **Ethical Hacker Pro:** Testout, 2024
-- **PC Pro (A+):** Testout 2024
-- **Security +:** CompTIA (IN PROGRESS)
-  
+- **PC Pro (A+):** Testout, 2024
+- **Security+:** CompTIA, 2025
+- **Network+:** CompTIA, (IN PROGRESS)
 
 ## Contact
 
