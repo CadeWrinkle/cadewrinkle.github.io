@@ -14,7 +14,8 @@ Hello! I'm Cade Wrinkle, a passionate and dedicated student with a strong backgr
 - **Operating Systems**: Familiarity with Linux, Windows, and MacOS.
 
 ## Projects
-This is my most notable project I worked on: https://github.com/CadeWrinkle/hackathon-2023 It is a project I collaborated on with 3 others. 
+I am currently working on a homelab server that serves multiple purposes ranging from Active Directory,to an IDS and other cybersecurity tools and VM's, and also a Media Server.
+
 ## Education
 
 ### B.S. Information Technology and Cybersecurity
