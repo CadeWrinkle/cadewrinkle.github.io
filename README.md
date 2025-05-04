@@ -20,7 +20,7 @@ I am currently working on a homelab server that serves multiple purposes ranging
 
 ### B.S. Information Technology and Cybersecurity
 - **Institution:** Wright State University
-- **Years Attended:** 2022 - Present
+- **Years Attended:** 2022 - 2024
 
 ### (No Degree)
 - **Institution:** Sinclair Community College
@@ -30,12 +30,12 @@ I am currently working on a homelab server that serves multiple purposes ranging
 
 ### Computer Support Assistant
 - **Company:** Wright State University
-- **Duration:** 05/2023 - Present
+- **Duration:** 05/2023 - 08/2024
 - **Description:** Provided technical support to Wright State students, faculty, and affiliates through email, phone, remote connection, and in-person. Managed IT help desk tickets using the ServiceNow system to quickly solve issues. Handled problems with Windows and iOS, printing, software installations, network drives, and classroom technology. Also helped test experimental software.
 
 ### Teaching Assistant
 - **Company:** Wright State University
-- **Duration:** 08/2024 - Present
+- **Duration:** 08/2024 - 12/2024
 - **Description:** Support classroom management and lesson preparation; provide individualized instruction and assist
 with grading.
 Facilitate student engagement and ensure a safe, productive learning environment.
@@ -51,7 +51,7 @@ Communicate effectively with students, parents, and staff to address academic ne
 - **Ethical Hacker Pro:** Testout, 2024
 - **PC Pro (A+):** Testout, 2024
 - **Security+:** CompTIA, 2025
-- **Network+:** CompTIA, (IN PROGRESS)
+- **Network+:** CompTIA, 2025
 
 ## Contact
 
