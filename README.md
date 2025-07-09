@@ -35,7 +35,7 @@ Cyber Intelligence & Reconnaissance
 Skilled in gathering and analyzing open-source intelligence (OSINT) from certificate transparency logs, WHOIS records, government contract data, and DNS history. Built internal tooling to automate passive reconnaissance and enhance adversary infrastructure mapping.
 
 ## Projects
-**Cyber Threat Fusion Platform
+**Cyber Threat Fusion Platform**
 
 AI-Driven Threat Intelligence Framework for Monitoring Adversaries and Predicting Targeting Behavior
 
@@ -48,6 +48,22 @@ Beyond basic reconnaissance, the platform includes an infrastructure correlation
 Where the project aims to break new ground is through its AI-integrated predictive threat forecasting grid — currently in early development. This component uses clustering algorithms, tagging heuristics, and geopolitical context to generate high-confidence predictions on likely targets. The long-term goal is to identify not just what adversaries have touched, but what they intend to pursue next based on behavioral signals and infrastructure trends.
 
 Built with flexibility and scale in mind, the platform is designed to evolve into a full-spectrum threat intelligence solution — serving both defenders (blue teams, GRC teams, analysts) and forward-leaning offensive security professionals who need to understand their adversaries in depth before they strike.
+
+
+**Bug Bounty Hunting**
+
+As part of my independent security research, I actively engage in bug bounty hunting with a focus on reconnaissance-driven vulnerability discovery. My approach combines automated and manual techniques to identify exposed assets, misconfigurations, and client-side security issues across a variety of public programs.
+
+I specialize in subdomain enumeration using tools like Amass, Subfinder, and crt.sh to uncover forgotten, misconfigured, or test/staging environments. Many of these exposed subdomains reveal entry points for deeper inspection, such as vulnerable JavaScript files, unsecured API endpoints, or outdated frameworks.
+
+In my testing, I have identified and reported issues including:
+- Exposed iframes that allow third-party content injection or UI redress
+- Reflected and stored XSS vulnerabilities through improper input sanitization
+- Cross-Site Request Forgery (CSRF) on sensitive endpoints lacking token validation
+- Leaked API tokens and credentials embedded in source code or dev portals
+- Open redirects, CORS misconfigurations, and IDOR patterns across authenticated APIs
+
+
 ## Education
 
 ### B.S. Information Technology and Cybersecurity
