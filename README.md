@@ -35,7 +35,7 @@ Cyber Intelligence & Reconnaissance
 Skilled in gathering and analyzing open-source intelligence (OSINT) from certificate transparency logs, WHOIS records, government contract data, and DNS history. Built internal tooling to automate passive reconnaissance and enhance adversary infrastructure mapping.
 
 ## Projects
-**Cyber Threat Fusion Platform**
+#### Cyber Threat Fusion Platform
 
 AI-Driven Threat Intelligence Framework for Monitoring Adversaries and Predicting Targeting Behavior
 
@@ -50,7 +50,7 @@ Where the project aims to break new ground is through its AI-integrated predicti
 Built with flexibility and scale in mind, the platform is designed to evolve into a full-spectrum threat intelligence solution — serving both defenders (blue teams, GRC teams, analysts) and forward-leaning offensive security professionals who need to understand their adversaries in depth before they strike.
 
 
-**Bug Bounty Hunting**
+#### Bug Bounty Hunting
 
 As part of my independent security research, I actively engage in bug bounty hunting with a focus on reconnaissance-driven vulnerability discovery. My approach combines automated and manual techniques to identify exposed assets, misconfigurations, and client-side security issues across a variety of public programs.
 
@@ -70,20 +70,22 @@ In my testing, I have identified and reported issues including:
 - **Institution:** Wright State University
 - **Date Completed:** May 2025
 
-## Experience
+## Relevant Experience
 
+### Cybersecurity Intern
+- **Company:** Illumination Works LLC.
+- **Duration:** 05/2025 - Present
+- **Description:** As a cybersecurity intern, I support a wide range of security and intelligence initiatives spanning governance, risk, compliance (GRC), and operational security. My role involves developing and refining internal documentation aligned with the NIST Risk Management Framework (RMF), including policies, standard operating procedures (SOPs), and system security plans (SSPs). I work closely with senior security staff to ensure content accuracy, clarity, and alignment with regulatory standards. A core part of my work involves conducting OSINT-based research to map organizational infrastructure, employee exposure, vendor relationships, and potential vulnerabilities. Using tools like crt.sh, WHOIS, and DNS history, I collect and analyze data that supports situational awareness, supply chain visibility, and threat intelligence efforts. This includes identifying publicly exposed assets, third-party risk indicators, and potential targeting vectors from adversaries. I also participate in internal security operations and governance meetings, where I’ve gained direct insight into real-world security workflows, enterprise risk prioritization, and how cyber intelligence shapes policy and defense decisions. My work directly contributes to the organization's ability to assess its external risk surface and improve its overall security posture. This internship has allowed me to apply and expand my knowledge of NIST 800-53, 800-37, RMF lifecycle stages, and the broader role of intelligence in shaping policy, incident readiness, and strategic security planning.
+  
 ### Computer Support Assistant
 - **Company:** Wright State University
 - **Duration:** 05/2023 - 08/2024
-- **Description:** Provided technical support to Wright State students, faculty, and affiliates through email, phone, remote connection, and in-person. Managed IT help desk tickets using the ServiceNow system to quickly solve issues. Handled problems with Windows and iOS, printing, software installations, network drives, and classroom technology. Also helped test experimental software.
+- **Description:** I rovided responsive technical support to students, faculty, and staff across multiple channels including phone, email, remote access, and in-person consultations. I resolved a wide range of hardware, software, and network issues, including Windows/iOS troubleshooting, printer configuration, classroom technology support, and network drive access. I managed and prioritized support tickets using ServiceNow, ensuring timely resolution and excellent customer service. I also assisted with testing and feedback for experimental software deployments in an academic environment.
 
 ### Teaching Assistant
 - **Company:** Wright State University
 - **Duration:** 08/2024 - 12/2024
-- **Description:** Support classroom management and lesson preparation; provide individualized instruction and assist
-with grading.
-Facilitate student engagement and ensure a safe, productive learning environment.
-Communicate effectively with students, parents, and staff to address academic needs and progress.
+- **Description:** I supported classroom management and lesson preparation; provide individualized instruction and assist with grading.I supported student engagement and ensure a safe, productive learning environment. I also communicated effectively with students and staff to address academic needs and progress.
 
 ### Awards / Achievements
 - Treasuerer of the Assocation for Computing Machinery organization at Wright State University
