@@ -5,7 +5,7 @@ Thank you for taking the time to review my resume. I am dedicated and hardworkin
 
 Hello! I'm Cade Wrinkle. I’m a cybersecurity professional with a strong foundation in IT, threat intelligence, and security operations. I recently completed a hands-on cybersecurity internship where I contributed to OSINT research, policy development, and compliance documentation aligned with NIST RMF standards. My work supported both operational security and cyber intelligence initiatives, giving me real-world exposure to how security programs function in the field.
 
-My background includes several years of higher education, industry certifications like CompTIA Security+ and Network+, and ongoing work toward Microsoft’s SC-900 and CompTIA CySA+. Beyond my internship, I’m designing an AI-integrated cyber intelligence platform built to monitor adversarial infrastructure, track threat actor movement across the public internet, and forecast potential targeting activity. This  system combines automated OSINT reconnaissance, certificate transparency monitoring, and early-stage predictive analytics — with the long-term goal of enabling proactive threat identification at scale.
+My background includes several years of higher education, industry certifications like CompTIA Security+ and Network+, and ongoing work toward the iNE eJPT (Junior Penetration Tester) certification. Beyond my internship, I’m designing an AI-integrated cyber intelligence platform built to monitor adversarial infrastructure, track threat actor movement across the public internet, and forecast potential targeting activity. This  system combines automated OSINT reconnaissance, certificate transparency monitoring, and early-stage predictive analytics — with the long-term goal of enabling proactive threat identification at scale.
 
 I’m seeking a full-time cybersecurity position where I can apply my skills, continue to grow, and contribute to a mission that matters. I’m dependable, self-driven, and ready to take on the next challenge — whether that’s in cyber threat intelligence, security operations, or a compliance-focused role. If you’re looking for someone who will show up, learn quickly, and make a difference, I’d love to connect.
 
@@ -91,7 +91,7 @@ In my testing, I have identified and reported issues including:
 - Treasuerer of the Assocation for Computing Machinery organization at Wright State University
 
 ## Certifications / Certificates
-
+- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals:** Microsoft, 2025
 - **Linux Security and Networking:** Sinclair Community College, 2024
 - **Information Systems Security:** Sinclair Community College, 2024
 - **Ethical Hacker Pro:** Testout, 2024
