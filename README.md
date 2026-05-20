@@ -72,10 +72,10 @@ In my testing, I have identified and reported issues including:
 
 ## Relevant Experience
 
-### Cybersecurity Intern
+### Cybersecurity GRC Analyst
 - **Company:** Illumination Works LLC.
 - **Duration:** 05/2025 - Present
-- **Description:** As a cybersecurity intern, I support a wide range of security and intelligence initiatives spanning governance, risk, compliance (GRC), and operational security. My role involves developing and refining internal documentation aligned with the NIST Risk Management Framework (RMF), including policies, standard operating procedures (SOPs), and system security plans (SSPs). I work closely with senior security staff to ensure content accuracy, clarity, and alignment with regulatory standards. A core part of my work involves conducting OSINT-based research to map organizational infrastructure, employee exposure, vendor relationships, and potential vulnerabilities. Using tools like crt.sh, WHOIS, and DNS history, I collect and analyze data that supports situational awareness, supply chain visibility, and threat intelligence efforts. This includes identifying publicly exposed assets, third-party risk indicators, and potential targeting vectors from adversaries. I also participate in internal security operations and governance meetings, where I’ve gained direct insight into real-world security workflows, enterprise risk prioritization, and how cyber intelligence shapes policy and defense decisions. My work directly contributes to the organization's ability to assess its external risk surface and improve its overall security posture. This internship has allowed me to apply and expand my knowledge of NIST 800-53, 800-37, RMF lifecycle stages, and the broader role of intelligence in shaping policy, incident readiness, and strategic security planning.
+- **Description:** As a cybersecurity governance risk and compliance analyst, I support a wide range of security and intelligence initiatives spanning governance, risk, compliance (GRC), and operational security. My role involves developing and refining internal documentation aligned with the NIST Risk Management Framework (RMF), including policies, standard operating procedures (SOPs), and system security plans (SSPs). I work closely with senior security staff to ensure content accuracy, clarity, and alignment with regulatory standards. A core part of my work involves conducting OSINT-based research to map organizational infrastructure, employee exposure, vendor relationships, and potential vulnerabilities. Using tools like crt.sh, WHOIS, and DNS history, I collect and analyze data that supports situational awareness, supply chain visibility, and threat intelligence efforts. This includes identifying publicly exposed assets, third-party risk indicators, and potential targeting vectors from adversaries. I also participate in internal security operations and governance meetings, where I’ve gained direct insight into real-world security workflows, enterprise risk prioritization, and how cyber intelligence shapes policy and defense decisions. My work directly contributes to the organization's ability to assess its external risk surface and improve its overall security posture. This internship has allowed me to apply and expand my knowledge of NIST 800-53, 800-37, RMF lifecycle stages, and the broader role of intelligence in shaping policy, incident readiness, and strategic security planning.
   
 ### Computer Support Assistant
 - **Company:** Wright State University
@@ -96,6 +96,7 @@ In my testing, I have identified and reported issues including:
 - **Information Systems Security:** Sinclair Community College, 2024
 - **Ethical Hacker Pro:** Testout, 2024
 - **PC Pro (A+):** Testout, 2024
+- **Cybersecruity Analyst (CySA+):** CompTIA, 2026
 - **Security+:** CompTIA, 2025
 - **Network+:** CompTIA, 2025
 
